@@ -7,7 +7,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.geom.Line2D;
 
-//write seperate class to set up components meant to be added to the frame
+//write separate class to set up components meant to be added to the frame
 public class Components extends JComponent {
     public void paintComponent(Graphics g) {
 // Recover Graphics2D
